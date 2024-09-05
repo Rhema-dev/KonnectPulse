@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "KonnectPulse",
+    "title": "Fluxrware",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "100",
     "logo_height": "24",
-    "logo_text": "KonnectPulse"
+    "logo_text": "fluxrware"
   },
 
   "settings": {
@@ -24,12 +24,12 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Konnecting The World.",
-    "copyright": "Designed and Developed By KonnectPulse. All rights reserved."
+    "footer_content": "Konnecting the world.",
+    "copyright": "Designed and Developed By Fluxrware. All rights reserved."
   },
 
   "metadata": {
-    "meta_author": "KonnectPulse",
+    "meta_author": "Fluxrware",
     "meta_image": ""
   }
 }
